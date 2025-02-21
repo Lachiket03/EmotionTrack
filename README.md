@@ -34,8 +34,7 @@ NumPy & Pandas (Data handling and preprocessing)
 Matplotlib & Seaborn (For data visualization)
 
 
-Download the FER-2013 dataset from [here]([https://drive.google.com/file/d/1X60B-uR3NtqPd4oosdotpbDgy8KOfUdr/view?usp=sharing](https://drive.google.com/file/d/1taqe1xWvRSA_gLIFFu7TyNHYSEZptIcI/view?usp=sharing))
-
+Download the FER-2013 dataset from https://drive.google.com/file/d/1taqe1xWvRSA_gLIFFu7TyNHYSEZptIcI/view?usp=sharing
 
 📊 Model Training
 
